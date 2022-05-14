@@ -1,4 +1,4 @@
-### Hi there. Welcome to my profile <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px">
+### Hi there. Welcome to my profile <img src="https://github.githubassets.com/images/mona-whisper.gif" width="40px">
 
 <h2> 
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Courier+Black&size=30&duration=5500&color=6099ba&center=true&vCenter=true&width=600&lines=I'm+Andrea+Paola"/>
@@ -7,8 +7,9 @@
 <br>
 
 <ul>
-  <li>🔭 I’m currently working on</li>
-  <li>🌱 I’m currently learning</li>
+  <li>😊 Pronouns: She / Her</li>
+  <li>🔭 I’m currently working on my web skills</li>
+  <li>🌱 I’m currently learning NodeJs | Python</li>
 </ul>
 
 <h4 align="left">Contactame:</h4>
