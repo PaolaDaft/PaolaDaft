@@ -1,26 +1,11 @@
 ### Hi there. Welcome to my profile <img src="https://github.githubassets.com/images/mona-whisper.gif" width="40px">
+Hello! 😊 My name is Pao, and I love meeting new people. I enjoy attending in-person and virtual events within the tech community and participating in hackathons 👩🏽‍💻✨. Currently, I'm very interested in the world of data, so I'm always taking courses in that area. I also like dancing, especially salsa and cumbia 💃.
 
 <h2> 
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Courier+Black&size=30&duration=5500&color=6099ba&center=true&vCenter=true&width=600&lines=I'm+Andrea+Paola"/>
   <img src="https://monophy.com/media/Ucb37stadGfXIITji3/monophy.gif" width="170px">
 </h2>
 <br>
 
-<ul>
-  <li>😊 Pronouns: She / Her</li>
-  <li>🔭 I’m currently working on my web skills</li>
-  <li>🌱 I’m currently learning NodeJs | Python</li>
-</ul>
-
-<h4 align="left">Contactame:</h4>
-<p align="left">
-<a href="https://twitter.com/Paola_Daft">
-  <img align="center" alt="Andrea Paola | Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" height="30" width="40"/>
-</a>
-<a href="https://www.instagram.com/paola_daft/" target="blank">
-  <img align="center" alt="Andrea Paola | Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
 
 <!--
 **PaolaDaft/PaolaDaft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
