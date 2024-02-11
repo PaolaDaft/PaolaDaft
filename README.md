@@ -1,11 +1,11 @@
 ## Hi there. Welcome to my profile <img src="https://github.githubassets.com/images/mona-whisper.gif" width="40px">
 
 <img align='right' src="https://raw.githubusercontent.com/PaolaDaft/PaolaDaft/main/Gift/Comunidades.gif" width="230">
-<p><em>My name is Pao 😊, I believe in the power of tech communities and love meeting new people, I enjoy attending both in-person and virtual events within the tech community.
+<p>My name is Pao 😊, I believe in the power of tech communities and love meeting new people, I enjoy attending in-person and virtual events within the tech community.
 
-I am admin of <a href="https://linktr.ee/ettogether"> English Training Together</a>, a community of Latinos that meets every Saturday to practice and improve our English 🚂</em></p>
+I'm admin of <em><a href="https://linktr.ee/ettogether"> English Training Together</a></em>, a community of Latinos that meets every Saturday to practice and improve our English 🚂</p>
 
-<br><br><br>
+<br><br><br><br>
 <p>
   👩🏽‍💻✨ I like participating in hackathons, and Startup Weekends events. 
   
